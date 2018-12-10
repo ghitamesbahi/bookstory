@@ -1,0 +1,26 @@
+node_modules
+*.bûche
+.idée
+.vscode
+* .sw *
+npm-shrinkwrap.json
+dist
+.tern-port
+* .DS_Store
+.cache
+junit.xml
+couverture/
+* .lerna_backup
+construire
+forfaits / exemples / automatisé- *
+/**/LICENCE
+docs / public
+packs / *. tgz
+package-lock.json
+.nvmrc
+livre de contes-statique
+integration / __ image_snapshots __ / __ diff_output__
+.jest-test-results.json
+/ examples / cra-kitchen-sink / src / __ image_snapshots __ / __ diff_output __ /
+lib / *. jar
+lib / ** / dll
