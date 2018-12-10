@@ -1,0 +1,7 @@
+{
+  "largeur d'impression": 100,
+  "tabWidth": 2,
+  "brackSpacing": true,
+  "trailingComma": "es5",
+  "singleQuote": true
+}
