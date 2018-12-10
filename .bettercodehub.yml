@@ -1,0 +1,16 @@
+composant_depth : 2
+langues :
+- javascript
+
+- nom : javascript
+  production :
+    exclure :
+      - . * \. test \ .js
+      - . * \ / __ test __ \ /.* \. js
+      - . * \ / __ mock __ \ /.* \. js
+      - . * \. stories \ .js
+  test :
+    comprennent :
+      - . * \. test \ .js
+      - . * \ / __ test __ \ /.* \. js
+      - . * \. storyshot
